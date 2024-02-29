@@ -10,8 +10,9 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-NOTE:
-PLEASE CHECK THE LOCALHOST IN API FIRST BEFORE EXECUTING THE FRONT WEB APPLICATION
+## NOTE:
+
+## PLEASE CHECK THE LOCALHOST IN API FIRST BEFORE EXECUTING THE FRONT WEB APPLICATION
 
 ## Project Setup
 
