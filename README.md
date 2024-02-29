@@ -14,6 +14,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## PLEASE CHECK THE LOCALHOST IN API FIRST BEFORE EXECUTING THE FRONT WEB APPLICATION
 
+## PLEASE ALSO INCLUDE CREATING A DATABASE WITH COLUMNS stud_id int, stud_name varchar, stud_course varchar and subjects JSON
+
 ## Project Setup
 
 ```sh
