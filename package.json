@@ -1,0 +1,23 @@
+{
+  "name": "studentenrollmentapp",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bootstrap-vue": "^2.23.1",
+    "mitt": "^3.0.1",
+    "primeflex": "^3.3.1",
+    "primevue": "^3.49.1",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}
