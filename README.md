@@ -1,4 +1,5 @@
 # StudentEnrollmentApp
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -33,3 +34,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+An app using Vue.JS as frontend connected to an API
+>>>>>>> 1b37a7233309d767fd0e20d894494a11f19e67b8
